@@ -16,3 +16,4 @@ class DieViewModel : ViewModel() {
         dieRoll.value = Random.nextInt(dieSides) + 1
     }
 }
+
